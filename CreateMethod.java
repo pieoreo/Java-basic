@@ -1,0 +1,8 @@
+public static int sub(int num1, int num2) {
+    return num1 - num2;
+}
+
+public static void main(String[] args) {
+    int result = sub(8, 5)
+    System.out.println(result);
+}  
